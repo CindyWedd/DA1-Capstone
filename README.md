@@ -1,8 +1,14 @@
 # DA1-Capstone
 
+<<<<<<< HEAD
 **Analysis of Movies and TV Show Offerings Available on Netflix**
 
 ---
+=======
+
+**Analysis of Movies and TV Shows Available on Netflix**
+___________________________________________________________________________
+>>>>>>> c5972b0043803f47956ef045918f093a9acdb8b5
 
 **Project Overview**
 
