@@ -1,7 +1,7 @@
 # DA1-Capstone
 
 
-**Analysis of Movies and TV Show Offerings Available on Netflix**
+**Analysis of Movies and TV Shows Available on Netflix**
 ___________________________________________________________________________
 
 **Project Overview**
