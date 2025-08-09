@@ -1,20 +1,25 @@
 # DA1-Capstone
 
-<<<<<<< HEAD
-**Analysis of Movies and TV Show Offerings Available on Netflix**
+**Analysis of Movies and TV Shows Available on Netflix**
 
 ---
+
 =======
 
-**Analysis of Movies and TV Shows Available on Netflix**
-___________________________________________________________________________
->>>>>>> c5972b0043803f47956ef045918f093a9acdb8b5
-
 **Project Overview**
+This project assembles movies and tv shows from Netflix and explores what is the most often watched.
 
----
+Once the project is running, it will:
+
+Clean and prepare the data to make sure it is accurate and usable.
+
+## Group the Netflix data where the comparison can be made by movie ratings, genre, IMDb and more
 
 **Project Requirements**
+
+Copy the code link to this respository and clone to your computer.
+
+Open the repository folder in a code editor, and create the virtual environment in that folder
 
 ---
 
@@ -32,10 +37,11 @@ ___________________________________________________________________________
 
 ---
 
-_Command Linux/Mac Git Bash_
-Create python3 -m venv venv python -m venv venv
+-Linux/Mac Git Bash\_
+
+Create python3 -m venv venv
 Activate source venv/bin/activate source venv/Scripts/activate
-Install pip install -r requirements.txt pip install -r requirements.txt
+Install pip
 Deactivate deactivate deactivate
 
 ---
