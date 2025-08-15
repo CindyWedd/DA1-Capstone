@@ -14,6 +14,10 @@ Once the project is running, it will provide a means for researching information
     
 The Netflix data may compare entertainment choices by titles, date of release, duration, genre, IMDb ratings and description.
 
+Total Records:
+    Ratings Dataset: 19,375 rows, 5 columns
+    Netflix Dataset: 8,800 rows, 7 columns
+
 **Project Requirements**
 VSCode
 Jupter Notebook
@@ -56,5 +60,13 @@ Activate -  source venv/bin/activate
 Install -   pip install -r requirements.txt
 Deactivate- deactivate
 
+**Data Dictionary**
 
-
+type (object) - identifies two categories of media - Movies and TV Shows
+title (object) - names of movies and TV shows
+Year Released (int) - year movies and TV shows were released
+rating (object) - ratings for movies and TV shows
+duration (object) - length of movies and TV shows
+casts (object) - actors in movies and TV shows
+description (object) - summary of movies and TV shows
+genres (object) - descriptive types of entertainment
